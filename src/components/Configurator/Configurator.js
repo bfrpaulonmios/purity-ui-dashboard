@@ -8,7 +8,6 @@ import {
   DrawerContent,
   DrawerHeader,
   Flex,
-  Icon,
   Link,
   Switch,
   Text,
